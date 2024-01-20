@@ -1,2 +1,2 @@
-### trilha-java-básico
-* Repositório para exemplos do curso de Java Básico.
+### trilha-python-básico
+* Repositório para exemplos do curso de Python Básico.
