@@ -16,6 +16,7 @@ print()
 
 d = 4**2
 e = 30
+
 operacao = (d / e)
 resultado = operacao
 
@@ -26,6 +27,7 @@ print()
 
 f = (9**4 + 2)
 g = 6 - 1
+
 operacao = (f * g)
 resultado = operacao
 
