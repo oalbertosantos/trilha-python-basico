@@ -6,7 +6,8 @@ a = 10
 b = 20
 c = 30
 
-resultado = 10 + 20 * 30
+operacao = (a + b * c)
+resultado = operacao
 
 print("O resultado é: ", resultado)
 print()
